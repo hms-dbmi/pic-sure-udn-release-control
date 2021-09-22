@@ -10,7 +10,7 @@ Visit [https://udn.hms.harvard.edu](https://udn.hms.harvard.edu/picsureui/) to v
 <b> Data Releases </b> <br>
 |Release|Date|Data type|Release Notes|
 |-|----------|--|--|
-|2|2021-09-27|phenotypic|- Phenotypic data has been refreshed with data as of Sept. 20, 2021. <br> - "gender" has been replaced with "sex". <br> - In order to minimize PHI the following have been removed: family_history and medication. 
+|2|2021-09-27|phenotypic|- Phenotypic data has been refreshed with data as of Sept. 20, 2021. <br> - In order to minimize PHI the following have been removed: family_history and medication. 
 |1|2021-07-23|genomic|- Genomic data has been refreshed with data as of July 14, 2021. <br> - Whole exome data has been replaced with whole genome data. New genomic patients include only their demographic data. |
 |1|2021-07-23|phenotypic|- Phenotypic data has been refreshed with data as of July 2021.|
 
