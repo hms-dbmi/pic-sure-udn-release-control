@@ -2,10 +2,10 @@
 
 Visit [https://udn.hms.harvard.edu](https://udn.hms.harvard.edu/picsureui/) to view the latest release. <p>
 <b> Current version of data</b>
-|Date of extract|Data type|Details|
+|Data type|Details|Date of extract|
 |----------|--|--|
-|2021-09-20|phenotypic|Demographics <br> Primary symptom category reported by patient or caregiver <br> UDN Clinical Site <br> Clinical symptoms and physical findings (in HPO, from PhenoTips) <br> Maternal ethnicity (from PhenoTips) <br> Paternal ethnicity (from PhenoTips) <br> Prenatal and perinatal history (from PhenoTips) <br> Disorders (in OMIM, from PhenoTips) <br> Status
-|2021-07-23|genomic|Whole genome sequenced data has been curated by Shilpa Nadimpalli Kobren, Ph.D., Research Fellow in Biomedical Informatics, Harvard University <br>Variant_frequency_as_text is from GNOMAD <br>Whole genome data has replaced whole exome data. <br>Sequence Submitted, Type of sequencing, Candidate genes, Candidate variants 
+|phenotypic|Demographics <br> Primary symptom category reported by patient or caregiver <br> UDN Clinical Site <br> Clinical symptoms and physical findings (in HPO, from PhenoTips) <br> Maternal ethnicity (from PhenoTips) <br> Paternal ethnicity (from PhenoTips) <br> Prenatal and perinatal history (from PhenoTips) <br> Disorders (in OMIM, from PhenoTips) <br> Status|2021-09-20
+|genomic|Annotated whole genome sequencing |2021-07-23
 
 <b> Data Releases </b> <br>
 |Release|Date|Data type|Release Notes|
