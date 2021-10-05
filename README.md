@@ -17,6 +17,6 @@ Visit [https://udn.hms.harvard.edu](https://udn.hms.harvard.edu/picsureui/) to v
 <b> Application Releases </b> </br> 
 |Release|Date|Release Notes|
 |-------|--|--|
-|2|2021-10-04|- Accessibility improvements to the user profile dialog. <br> - Updated the authorization logic so that duplicate users and connections can not be added on the Users page accessible by Admins. <br> - Fixed a bug where Admin users could not edit existing user's details. <br> - PSAMA and PIC_SURE settings have been merged. |
+|2|2021-10-04|- Accessibility improvements to the user profile dialog. <br> - Updated the authorization logic so that duplicate users and connections can not be added on the Users page accessible by Admins. <br> - Fixed a bug where Admin users could not edit existing user's details. <br> - PSAMA and PIC-SURE settings have been merged. |
 |1|2021-07-23|- The Variant Explorer has been optimized to perform faster to accommodate whole genomic sequenced data. <br> - The header and footer are now consistent across the application. <br> - The Help tab includes a direct link to the UDN Jupyter Notebooks.  <br> - YouTube training videos are also available from the Help tab. <br> - The user guide has been updated to reflect the features available in UDN. </p>
 
