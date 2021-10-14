@@ -5,7 +5,7 @@ Visit [https://udn.hms.harvard.edu](https://udn.hms.harvard.edu/picsureui/) to v
 |Data type|Details|Date of extract|
 |----------|--|--|
 |phenotypic|Demographics <br> Primary symptom category reported by patient or caregiver <br> UDN Clinical Site <br> Clinical symptoms and physical findings (in HPO, from PhenoTips) <br> Maternal ethnicity (from PhenoTips) <br> Paternal ethnicity (from PhenoTips) <br> Prenatal and perinatal history (from PhenoTips) <br> Disorders (in OMIM, from PhenoTips) <br> Status|2021-09-28
-|genomic|Annotated whole genome sequencing |2021-07-23
+|genomic|Annotated whole genome sequencing for those patients with phenotypic data |2021-07-23
 
 <b> Data Releases </b> <br>
 |Release|Date|Data type|Release Notes|
